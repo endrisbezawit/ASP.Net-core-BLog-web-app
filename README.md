@@ -1,1 +1,1 @@
-# ASP.Net-core-BLog-web-app
+# sample recommendation 
